@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fawn25" alt="fawn25" /></a> </p>
 
-- 🔭 I’m currently working on **<Work in progress>**
 
 - 🌱 I’m currently learning **Some webdev framework**
 
-- 👨‍💻 All of my projects are available at [<Work in progress>](<Work in progress>)
+- 👨‍💻 All of my projects are available here: [Porfolio]()
 
 - 📫 How to reach me **andreagirlando05@gmail.com**
 
