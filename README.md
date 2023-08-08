@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fawn25" alt="fawn25" /></a> </p>
 
 
-- 🌱 I’m currently learning **Some webdev framework**
+- 🌱 I’m currently learning **some webdev framework**
 
 - 👨‍💻 All of my projects are available here: [Porfolio]()
 
